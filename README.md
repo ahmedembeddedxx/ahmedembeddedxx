@@ -1,6 +1,6 @@
 ## Hey there!!!
 
-I am a BSc. Data Science undergraduate at FAST National University, Lahore. I'm a full stack developer (MERN), machine learning expert (CV/NLP) and part-time data scientist (Spark Stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
+I am a BSc. Data Science undergraduate at FAST National University, Lahore. I'm a full stack developer (Next & MERN), machine learning expert (CV/NLP) and part-time data scientist (Spark Stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
 
 
 ```bash
