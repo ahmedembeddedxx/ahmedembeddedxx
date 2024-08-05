@@ -4,7 +4,7 @@ I am a BSc. Data Science undergraduate at FAST National University, Lahore. I'm 
 
 
 ```bash
-# the sh*t i cook is art ;-;
+# This ain't chemistry - this is art. Cooking is art.
 ```
   <a href="https://www.linkedin.com/in/ahmedembedded/" target="_blank" ><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
