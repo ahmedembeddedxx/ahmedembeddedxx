@@ -2,6 +2,7 @@
 
 I am a BSc. Data Science undergraduate at FAST National University, Lahore and researcher in modern machine learning linear algebra. 
 <br>
+<br>
 I'm a full stack developer (NextJS, ReactJS), machine learning developer (CV/NLP) and part-time data scientist (Spark Stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
 
 
