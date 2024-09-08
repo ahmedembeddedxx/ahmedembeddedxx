@@ -1,10 +1,9 @@
-## Hey there!!!
+## Hi, I'm Ahmed
 
-I am a BSc. Data Science undergraduate at FAST National University, Lahore and researcher in modern machine learning linear algebra. 
+I am a BSc. Data Science undergraduate at FAST National University Lahore. I'm a researcher in modern machine learning linear algebra and biotech. 
 <br>
 <br>
-I'm a full stack developer (NextJS, ReactJS), machine learning developer (CV/NLP) and part-time data scientist (Spark Stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
-
+I work as a machine learning developer (Comp. vis and NLP), full stack developer (NextJS, ReactJS) and part-time data scientist (spark stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
 
 ```bash
 # May the world have enough yeast, because the world isn't ready for how much I'm going to cook.
