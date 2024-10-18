@@ -1,9 +1,9 @@
-## Hi, I'm Ahmed
+## Hi, I'm Ahmed.
+<br>
+<br>
+I am a BSc. Data Science Ugrad at FAST National University Lahore and Kaggle Expert. I work as a researcher in biomed and computational perception, helping computers to think like human. 
 
-I am a BSc. Data Science undergraduate at FAST National University Lahore. I'm a researcher in modern machine learning linear algebra and biotech. 
-<br>
-<br>
-I work as a machine learning developer (Comp. vis and NLP), full stack developer (NextJS, ReactJS) and part-time data scientist (spark stack). I do free and open source contributions, and mathematics for machine learning. So feel free to connect and message.
+I am an expert in ML (Vision and GenAI Transformers), and part-time data scientist (Spark & S3 Stack). I do free and open source contributions, and statistics for machine learning. So feel free to connect and message.
 
 ```bash
 # May the world have enough yeast, because the world isn't ready for how much I'm going to cook.
