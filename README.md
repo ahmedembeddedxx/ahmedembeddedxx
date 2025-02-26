@@ -1,4 +1,4 @@
-## 𝓗𝓮𝔂 (𝓲𝓼𝓷'𝓽 𝓲𝓽 𝓯𝓻𝓮𝓪𝓴𝔂?)
+## 𝓯𝓻𝓮𝓪𝓴𝔂'stein?
 
 ```bash
 # May the world have enough yeast, because the world isn't ready for how much I'm going to cook.
