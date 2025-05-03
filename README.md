@@ -1,4 +1,4 @@
-# 𝓯𝓻𝓮𝓪𝓴𝔂'stein? (⸝⸝⸝>﹏<⸝⸝⸝)
+# **𝓯𝓻𝓮𝓪𝓴𝔂'stein? (⸝⸝⸝>﹏<⸝⸝⸝)**
 
 ```bash
 # May the world have enough yeast, because it isn’t ready for how much I’m going to cook.
